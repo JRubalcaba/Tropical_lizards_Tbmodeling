@@ -1,4 +1,4 @@
-### This repository contains information of the manuscript "Microclimate and behavioural thermoregulation mediate the response of tropical ectotherms to climate and habitat change"
+### This repository contains the R Code and data used in the manuscript "Microclimate and behavioural thermoregulation mediate the response of tropical ectotherms to climate and habitat change"
 ### Juan G. Rubalcaba*, Luisa F. Ramírez, Inês M. Comarella, Daniel C. P. Jorge, Jennifer Sunday
 
 ### including: 
