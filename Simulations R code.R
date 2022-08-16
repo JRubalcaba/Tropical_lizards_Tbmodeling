@@ -11,7 +11,7 @@ require(ggplot2)
 ############## Model parameters and functions ###########
 
 require(Rcpp)
-dir <- "" # set working directory
+dir <- "/Sources" # set working directory
 
 # 1. Load model functions
 load(paste0(dir,"/Te_model.RData")) # Operative temperature model function
